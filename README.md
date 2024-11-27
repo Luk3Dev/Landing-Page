@@ -1,2 +1,2 @@
 # Landing-Page
-collabed With mentor
+# Collabed With mentor on creating a styled login page to sign up. 
